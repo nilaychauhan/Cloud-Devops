@@ -1,3 +1,4 @@
+![alt tag](https://user-images.githubusercontent.com/44708711/93051303-e156d600-f681-11ea-8550-27f0f773df85.jpg)
 Excited to have completed the *Cloud DevOps Engineer Nanodegree* ! ☁️🚀
 
 Thanks to the Bertelsmann Technology Scholarship 💡, I got access to the full Nanodegree program free of cost. I would highly recommend this Nanodegree to anyone interested in solidifying their skills in DevOps.
